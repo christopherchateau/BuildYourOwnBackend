@@ -6,6 +6,8 @@
 
 # Welcome to the Cerebral Beers Open-Source Project! :beers::beers::beers:
 
+## This API is hosted live on [Heroku](https://cerebral-beer-api.herokuapp.com/)!
+
 **API Table of Contents**
 
 - [API Documentation](#cerebral-beers-api-documentation)
