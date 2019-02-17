@@ -4,7 +4,7 @@
 
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/flevenson/BuildYourOwnBackend.svg?columns=all)](https://waffle.io/flevenson/BuildYourOwnBackend)
 
-# Welcome to the Cerebral Beers Open-Source Project! :beers::beers::beers:
+# Welcome to the Cerebral Beers Open-Source Project! :beers:
 
 ## This API is hosted live on [Heroku](https://cerebral-beer-api.herokuapp.com/)!
 
