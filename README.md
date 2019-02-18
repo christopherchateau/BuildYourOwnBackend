@@ -29,7 +29,7 @@
 
 - **GET** - Get All Beers: `/api/v1/cerebral_beers/beer`
 
-This endpoint will return an array of all Cerebral beers, current and passed.
+This endpoint will return an array of all Cerebral beers, current and past.
 
 #### Example Response
 
