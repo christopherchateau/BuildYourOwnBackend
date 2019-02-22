@@ -214,6 +214,7 @@ A beer style may not be deleted if there is a beer in the database under that st
 - [Node.js / NPM](https://nodejs.org/)
 - [PostgreSQL](https://www.postgresql.org/download/)
 - [Knex](https://knexjs.org)
+- [Express](https://expressjs.com/)
 
 From your terminal run:
 
